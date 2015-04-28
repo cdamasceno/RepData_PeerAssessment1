@@ -10,16 +10,12 @@ Sys.setlocale("LC_ALL", 'en_US.UTF-8')
 ```
 
 ```
-## [1] "en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/pt_BR.UTF-8"
+## [1] "en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8"
 ```
 ## Loading and preprocessing the data
 
 ```r
 library(dplyr)
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.1.2
 ```
 
 ```
